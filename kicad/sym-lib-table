@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Prolific_MA8621")(type "KiCad")(uri "${KIPRJMOD}/Prolific_MA8621.kicad_sym")(options "")(descr ""))
+  (lib (name "display")(type "KiCad")(uri "${KIPRJMOD}/display.kicad_sym")(options "")(descr ""))
+  (lib (name "PI3A27518")(type "KiCad")(uri "${KIPRJMOD}/PI3A27518.kicad_sym")(options "")(descr ""))
+  (lib (name "Microchip")(type "KiCad")(uri "${KIPRJMOD}/Microchip.kicad_sym")(options "")(descr ""))
+)
