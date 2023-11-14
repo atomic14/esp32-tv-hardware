@@ -3327,6 +3327,12 @@
     (uuid e6918809-e82d-4ad9-b2e7-a396cca0c744)
   )
 
+  (text "Need to find a suitable value for this.\nThere appears to be an undocumented\ninternal pullup resistor on the reset pin."
+    (at 354.965 59.055 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 12b857c2-6333-4526-8ce2-5f294f2c4b3a)
+  )
+
   (global_label "SPK_BCLK" (shape input) (at 162.56 142.875 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 09a21883-3fc0-4a81-b395-de674cbe7eb1)
@@ -7335,10 +7341,10 @@
   (symbol (lib_id "Device:R_Small") (at 348.615 56.515 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f412a688-ff3e-4d47-99de-90c72f8b45ae)
-    (property "Reference" "R10" (at 351.155 55.245 0)
+    (property "Reference" "R10" (at 350.52 55.245 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100K" (at 351.155 57.785 0)
+    (property "Value" "1K" (at 350.52 57.785 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 348.615 56.515 0)
