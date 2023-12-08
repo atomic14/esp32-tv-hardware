@@ -1,4 +1,6 @@
-# ESP32-TV Hardware Files
+# WIP - ESP32-TV Hardware Files
+
+This is Work In Progress - I'm still working on this.
 
 This repo contains/will contain the hardware design files for the ESP32-TV project.
 
