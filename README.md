@@ -8,7 +8,7 @@ This repo contains/will contain the hardware design files for the ESP32-TV proje
 
 You can either open this up in KiCad, or there's a PDF [here](./images/micro-esp32-s3.pdf).
 
-[![Schematic](./images/micro-esp32-s3.svg)](./images/micro-esp32-s3.pdf).
+[![Schematic](./images/micro-esp32-s3.svg)](./images/micro-esp32-s3.pdf)
 
 ## PCB
 
